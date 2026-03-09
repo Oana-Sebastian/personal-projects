@@ -11,7 +11,7 @@
 - Design a relational database schema capable of handling parts creation and order processing.
 - Ensure application stability through an automated testing suite with PHPUnit.
 
-[Link to Project Repository](https://github.com/Oana-Sebastian/parts-store.git)
+[View Repository →](https://github.com/Oana-Sebastian/parts-store.git)
 
 ---
 
@@ -26,7 +26,7 @@
 - Engineer a dynamic pricing engine for real-time discount calculations during checkout.
 - Manage complex many-to-many relationships via EF Core for allergen filtering and menu categorization.
 
-[Link to Project Repository](https://github.com/Oana-Sebastian/Restaurant.git)
+[View Repository →](https://github.com/Oana-Sebastian/Restaurant.git)
 
 ---
 
@@ -41,7 +41,7 @@
 - Interface GPIO and ADC peripherals to process digital button matrices and analog signals.
 - Orchestrate concurrent task management using FreeRTOS for non-blocking hardware debouncing.
 
-[Link to Project Repository](https://github.com/Oana-Sebastian/ESP32-BLE-MacroKeyboard.git)
+[View Repository →](https://github.com/Oana-Sebastian/ESP32-BLE-MacroKeyboard.git)
 
 ---
 
