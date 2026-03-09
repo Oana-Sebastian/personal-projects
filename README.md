@@ -51,3 +51,24 @@
 - **Professional Experience:** Former Embedded Systems Intern at SIEMENS ROMANIA R&D (May - Dec 2025)
 - **Core Technical Skills:** C++ (Proficient), C# (Experienced), Java/Python (Intermediate), SQL, and Data Structures
 - **Languages:** English (Fluent), French (Basics)
+
+---
+
+## 4. TEAM S.T.A.R. - Modern C++ Tank Game
+
+A multiplayer tank battle game developed for the Modern C++ course at Transilvania University of Brașov (October 2024 - January 2025).
+
+**Purpose**: Create a networked multiplayer game demonstrating advanced C++ programming concepts and client-server architecture.
+
+**Key Objectives**: 
+- Implement client-server networking with support for 8+ concurrent players
+- Develop team-based matchmaking system with automatic balancing
+- Create economy system with powerups and in-game shop
+- Integrate SQLite database for user authentication and data persistence
+
+**Technologies**: Modern C++, Qt (GUI & Graphics), SQLite, Client-Server Architecture
+
+**Team Project** - 4 developers | **Coordinator**: Popa Iulian
+
+[View Repository →](https://github.com/andreinegoita/TEAM-S.T.A.R.-Modern-Project) 
+
