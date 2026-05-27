@@ -45,15 +45,6 @@
 
 ---
 
-## 🛠 Skills & Background
-
-- **Education:** B.Sc. in Computer Science at Transilvania University (2023 - Present)
-- **Professional Experience:** Former Embedded Systems Intern at SIEMENS ROMANIA R&D (May - Dec 2025)
-- **Core Technical Skills:** C++ (Proficient), C# (Experienced), Java/Python (Intermediate), SQL, and Data Structures
-- **Languages:** English (Fluent), French (Basics)
-
----
-
 ## 4. TEAM S.T.A.R. - Modern C++ Tank Game
 
 A multiplayer tank battle game developed for the Modern C++ course at Transilvania University of Brașov (October 2024 - January 2025).
@@ -72,3 +63,15 @@ A multiplayer tank battle game developed for the Modern C++ course at Transilvan
 
 [View Repository →](https://github.com/andreinegoita/TEAM-S.T.A.R.-Modern-Project) 
 
+---
+
+## 5. Calculator app
+
+**Stack**: C#, .NET 8.0, WPF
+**Context**: Academic project focused on getting familiar with the C# language and WPF. 
+**Goal**: To develop a calculator app that can do basic calculations, error handling, digit grouping, memory management (MC, MR, M+, M-, MS, Mv), calculations in other bases (BIN,OCT,DEC,HEX), and some additional operations (square root, sign inversion, percentage and reciprocal)
+
+### Objectives:
+- Implement a complete calculator that can perform all the basic calculations including additional operations
+- Utilize the MVVM architecture, persistent preferences across sessions
+- Implement a region based digit grouping, a copy/paste feature, mouse and keyboard support
