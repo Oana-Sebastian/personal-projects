@@ -76,4 +76,4 @@ A multiplayer tank battle game developed for the Modern C++ course at Transilvan
 - Utilize the MVVM architecture, persistent preferences across sessions
 - Implement a region based digit grouping, a copy/paste feature, mouse and keyboard support
 
-[View Repository →]([https://github.com/Oana-Sebastian/CalculatorApp])
+[View Repository →](https://github.com/Oana-Sebastian/CalculatorApp)
